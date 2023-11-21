@@ -2,12 +2,12 @@
 <html>
 <body>
 	<center>
-<h1>AMD</h1>
-<h2>AMD 2</h2>
-<h3>AMD 3</h3>
-<h4>AMD 4</h4>
-<h5>AMD 5</h5>
-<h6>AMD 6</h6>
+<h1>"ARIF MUHAMMD"</h1>
+<h2>"ARIF MUHAMMD" 2</h2>
+<h3>"ARIF MUHAMMD" 3</h3>
+<h4>"ARIF MUHAMMD" 4</h4>
+<h5>"ARIF MUHAMMD" 5</h5>
+<h6>"ARIF MUHAMMD" 6</h6>
 
 
 	</center>

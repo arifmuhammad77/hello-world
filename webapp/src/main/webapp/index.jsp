@@ -7,7 +7,7 @@
 <h3>"ARIF MUHAMMD" 3</h3>
 <h4>"ARIF MUHAMMD" 4</h4>
 <h5>"ARIF MUHAMMD" 5</h5>
-<B><===========================ARIF MUHAMMAD IS A ULTIMATE STAR=================================></B>
+<B><===========================ARIF MUHAMMAD IS A ULTIMATE TIGER=================================></B>
 
 	</center>
 </body>

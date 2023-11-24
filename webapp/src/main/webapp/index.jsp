@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<body>
+	<body style="color:yellow;">
 	<center>
 <h1>"ARIF MUHAMMD"</h1>
 <h2>"ARIF MUHAMMD" 2</h2>
